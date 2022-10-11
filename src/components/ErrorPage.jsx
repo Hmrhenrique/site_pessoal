@@ -3,7 +3,7 @@ import {Link} from 'react-router-dom'
 
 function ErrorPage() {
     return (
-        <div className='container-md my-5 pb-5'>
+        <div className='container-md mt-5 py-5'>
             <div className=' text-light fw-bold text-center my-3'>
                 Ops, ocorreu algum erro. Verifique a URL <br />
             </div>
